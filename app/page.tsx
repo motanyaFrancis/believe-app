@@ -18,7 +18,7 @@ export default function LaunchPage() {
       </div>
       <div className="max-w-lg w-100 mb-12">
         <img
-          src="https://demo.themesberg.com/windster-pro/images/illustrations/maintenance.svg"
+          src="/maintenance.svg"
           alt="Maintenance Illustration"
           className="w-full h-auto"
           loading="lazy"
