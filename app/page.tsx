@@ -10,10 +10,10 @@ export default function LaunchPage() {
       </div>
       <div className="max-w-xl mb-8">
         <p className="text-gray-700 text-xl font-bold leading-relaxed">
-          Please bear with us! We're currently under maintenance.
+          Please bear with us! We&apos;re currently under maintenance.
         </p>
         <p className="text-gray-700 text-base leading-relaxed">
-          It&apos;s going to take some time to fix the error. We'll be back online in.
+          It&apos;s going to take some time to fix the error. We&apos;ll be back online in.
         </p>
       </div>
       <div className="max-w-lg w-100 mb-12">
