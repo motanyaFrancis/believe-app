@@ -13,7 +13,7 @@ export default function LaunchPage() {
           Please bear with us! We&apos;re currently under maintenance.
         </p>
         <p className="text-gray-700 text-base leading-relaxed">
-          It&apos;s going to take some time to fix the error. We&apos;ll be back online in.
+          It&apos;s going to take some time to fix the error. We&apos;ll be back online after While.
         </p>
       </div>
       <div className="max-w-lg w-100 mb-12">
